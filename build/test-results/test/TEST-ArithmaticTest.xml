@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArithmaticTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-03-12T11:04:56" hostname="DESKTOP-EDLROQB" time="0.067">
+  <properties/>
+  <testcase name="canAdd()" classname="ArithmaticTest" time="0.041"/>
+  <testcase name="canDivide()" classname="ArithmaticTest" time="0.004"/>
+  <testcase name="canMultiply()" classname="ArithmaticTest" time="0.001"/>
+  <testcase name="canSubtract()" classname="ArithmaticTest" time="0.005"/>
+  <testcase name="areofRectangle()" classname="ArithmaticTest" time="0.002"/>
+  <testcase name="perimeterOfRectangle()" classname="ArithmaticTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
